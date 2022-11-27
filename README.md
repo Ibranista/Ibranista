@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="ibranista88@gmail.com" height="30" width="40" /></a>
+<a href="https://www.telegram.me/ibranista" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="ibranista telegram account" height="30" width="40" /></a>
 </p>
 <a href="https://twitter.com/@ibrahimkedir9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ibrahimkedir9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibraheem88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibraheem88" height="30" width="40" /></a>
