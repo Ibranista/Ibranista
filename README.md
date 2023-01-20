@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 🌱 I’m currently learning **nest js**
 
-- 💬 Ask me about **react, redux-toolkit, expressjs**
+- 💬 Ask me about **react, redux-toolkit, expressjs, firebase**
 
 - 📫 How to reach me **techofreact@gmail.com**
 
