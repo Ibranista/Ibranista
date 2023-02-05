@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ibrahim</h1>
-<h3 align="center">Passionate full stack developer</h3>
+<h3>Passionate full stack developer</h3>
 - 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **web application development.**
