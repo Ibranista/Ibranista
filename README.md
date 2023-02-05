@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Ibrahim</h1>
-<h3 align="center">Passionate MERN stack developer, that means yes, I love javascript</h3>
-- 🌱 I’m currently learning **nest js**
+<h3 align="center">Passionate full stack developer</h3>
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **react, redux-toolkit, expressjs, firebase**
+- 💬 Ask me about **web application development.**
 
 - 📫 How to reach me **techofreact@gmail.com**
 
