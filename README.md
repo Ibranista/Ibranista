@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ibrahim</h1>
 <h3>Passionate full stack developer</h3>
-- 🌱 I’m currently working on **personal blog website**
+- 🌱 I’m currently working on **Dodai app e-**
 
 - 💬 Ask me about **firebase and MERN stack**
 
