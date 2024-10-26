@@ -1,6 +1,5 @@
-<h1 align="center">Hello 👋, I'm Ibrahim</h1>
-<h3>I don't want to brag but I'm a software engineer 😊</h3>
-- 🌱 I’m currently working on ** Rejuve.com **
+<h1 align="center">Hello 👋, I'm Ibraheem</h1>
+<h3> Software Engineer With Over FoUr yearS of PROFESSIONAl ExpreiencE </h3>
 
 - 💬 Ask me about **MERN, Go-lang, sql and firebase** also I'm not a mean person but you can ask about the **MEAN 😁**
 
